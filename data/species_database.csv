@@ -1,0 +1,15 @@
+# ==============================================================================
+# SAMPLE ENVIRONMENTAL DNA (eDNA) REFERENCE DATABASE FOR BIODIVERSITY
+# Note: These are simulated reference marker sequences (8-20 bp) for academic demo.
+# Format: species,marker
+# ==============================================================================
+Salmo salar (Atlantic Salmon),ATGCCTAGGATCCTAA
+Thunnus thynnus (Bluefin Tuna),CGATAGCCGATACGTA
+Lutra lutra (European Otter),TTAGGCCGAATTACGA
+Anguilla anguilla (European Eel),GAATTCGATCGATCGA
+Salvelinus fontinalis (Brook Trout),CTAGCTAGCATCGATC
+Oncorhynchus mykiss (Rainbow Trout),GCTAGCCTAGATCCTA
+Esox lucius (Northern Pike),TGCATGCATGCAATGC
+Cyprinus carpio (Common Carp),CGTACGTACGTACGTA
+Rana temporaria (Common Frog),AAGCTTAAGCTTGGCC
+Castor fiber (Eurasian Beaver),TCGAATTCGAATTCGA

@@ -1,0 +1,27 @@
+# Compiled Binaries & Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Specific project binaries
+/app.exe
+/backend/test_algorithms.exe
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code User State (Preserve project settings)
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/settings.json
+
+# Temporary & Log Files
+*.log
+*.tmp
